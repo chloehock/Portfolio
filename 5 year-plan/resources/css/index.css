@@ -1,0 +1,15 @@
+.banner {
+    background-color: rgb(41, 201, 255);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 70px;
+}
+
+.Goals {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 48px;
+}
+
