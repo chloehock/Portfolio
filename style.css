@@ -4,44 +4,21 @@
     font-size: x-large;
 }
 
-li {
-    font-size: large;
-    font-family: Verdana;
-    margin: .2in;
-    text-transform: uppercase;
-    color: darkorchid;
-}
 
 body {
     background-color: lightblue;
 }
 
-section {
-    float: right;
-    border: black;
-    padding: .3in;
+#softball {
+    background-color: cornflowerblue;
 }
 
-
-
-.right {
-    float: right;
-    
-    margin: 20px;
-    
+#baking {
+    background-color: darkcyan;
 }
 
-.left {
-    float: left;
-    
-    margin: 20px;
-    
-}
-
-.block {
-    display: block;
-    position: left;
+.photo {
     position: fixed;
     left: 0px;
-    
+    margin: 200px;
 }
