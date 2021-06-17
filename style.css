@@ -1,4 +1,47 @@
-div {
-    background-color: aqua;
+#introduction-div {
+    background-color:white;
     text-align: center;
+    font-size: x-large;
+}
+
+li {
+    font-size: large;
+    font-family: Verdana;
+    margin: .2in;
+    text-transform: uppercase;
+    color: darkorchid;
+}
+
+body {
+    background-color: lightblue;
+}
+
+section {
+    float: right;
+    border: black;
+    padding: .3in;
+}
+
+
+
+.right {
+    float: right;
+    
+    margin: 20px;
+    
+}
+
+.left {
+    float: left;
+    
+    margin: 20px;
+    
+}
+
+.block {
+    display: block;
+    position: left;
+    position: fixed;
+    left: 0px;
+    
 }
