@@ -7,18 +7,40 @@
 
 body {
     background-color: lightblue;
+    float: left;
 }
 
 #softball {
     background-color: cornflowerblue;
+    float:left;
+    position: sticky;
 }
 
 #baking {
     background-color: darkcyan;
+    float:left;
 }
 
-.photo {
-    position: fixed;
-    left: 0px;
-    margin: 200px;
+#Israel {
+    background-color: aliceblue;
+    float:left;
 }
+
+#coding {
+    background-color: cyan;
+    float:left;
+}
+
+#book {
+    background-color: darkmagenta;
+    float:left;
+}
+
+.float-right {
+    float: right;
+    width: 75%;
+}
+
+/* .float-left {
+    float: left;
+} */
